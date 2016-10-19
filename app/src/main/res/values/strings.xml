@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drawer layout</string>
+    <string name="uno">uno</string>
+    <string name="dos">dos</string>
+    <string name="tres">tres</string>
+    <string name="cuatro">cuatro</string>
+</resources>
